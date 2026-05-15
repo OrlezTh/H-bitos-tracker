@@ -21,7 +21,7 @@ Aplicación web mobile-first para registrar hábitos y actividades a lo largo de
 <!-- Reemplazá estas líneas con capturas reales de la app -->
 | Home | Check-in | Estadísticas |
 |------|----------|--------------|
-| ![home](./screenshots/home.png) | ![checkin](./screenshots/checkin.png) | ![stats](./screenshots/stats.png) |
+| ![home](./Screenshots/home.png.png) | ![checkin](./Screenshots/checkin.png) | ![stats](./Screenshots/stats.png) |
 
 ---
 
