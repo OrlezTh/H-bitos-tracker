@@ -85,16 +85,7 @@ habit-tracker/
 
 ---
 
-## 🔮 Mejoras planeadas
-
-- [ ] Exportar datos a CSV
-- [ ] Gráfico de hábitos por semana
-- [ ] Modo multi-usuario con backend
-- [ ] PWA para instalación en home screen
-
----
-
 ## 👤 Autor
 
 **Thiago Alvarez**  
-[GitHub](https://github.com/OrlezTh) · [LinkedIn](https://linkedin.com/in/tu-usuario)
+[GitHub](https://github.com/OrlezTh) · [LinkedIn](https://www.linkedin.com/in/thiagoorel/)
